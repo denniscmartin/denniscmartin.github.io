@@ -40,4 +40,4 @@ Projects to learn a specific topic, framework, or programming language.
 - Serverless app to fetch & analyse tweets using AWS Comprehend [[Source code](https://github.com/denniscmartin/tweet-analysis)]
 
 ## Contact me
-[Twitter](https://twitter.com/dennistech_) - [Email](mailto:dennisconcepcionmartin@gmail.com)
+[Twitter](https://twitter.com/dennistech_) - [Email](mailto:dmartin@dennistech.io)
