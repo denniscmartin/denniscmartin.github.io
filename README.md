@@ -25,6 +25,7 @@ Some of my very first apps that I removed from the App Store and open source the
 
 ## Libraries
 
+- Stack two views like the Apple Maps app. Written in SwiftUI [[Link](https://github.com/denniscmartin/dt-viewstack)]
 - A simple extension to round specific corners of shapes in SwiftUI [[Link](https://github.com/denniscmartin/dt-roundedcorners)]
 - A generic implementation of a photo picker for SwiftUI using PhotosUI [[Link](https://github.com/denniscmartin/dt-photopicker)]
 - Display interactive charts in SwiftUI [[Link](https://github.com/denniscmartin/stock-charts)]
